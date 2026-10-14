@@ -1,0 +1,13 @@
+{
+  "obc_mean": 4.375,
+  "obc_sd": 0.3413426113527626,
+  "quarry_delta_median": 0.0016674566550694,
+  "quarry_delta_q25": -0.00295140078095205,
+  "quarry_delta_q75": 0.005991543794899975,
+  "quarries_et_better": 26,
+  "gradation_flags": [
+    "1 (47).docx",
+    "1 (51).docx",
+    "1 (57).docx"
+  ]
+}

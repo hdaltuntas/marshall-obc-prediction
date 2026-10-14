@@ -1,0 +1,95 @@
+{
+  "input_sha256": "9adaf0297fe6b948c41fa4992f2ebc0c43602cef1cbb55af13c5380606577d0e",
+  "n": 204,
+  "n_quarries": 60,
+  "layer_counts": {
+    "binder_course": 72,
+    "wearing_course": 67,
+    "ac_base_course": 65
+  },
+  "random_state": 42,
+  "features": [
+    "layer_type",
+    "passing_25_4mm",
+    "passing_19_1mm",
+    "passing_12_7mm",
+    "passing_9_5mm",
+    "passing_4_75mm",
+    "passing_2_0mm",
+    "passing_0_425mm",
+    "passing_0_177mm",
+    "passing_0_075mm",
+    "bitumen_specific_gravity",
+    "penetration",
+    "softening_point",
+    "los_angeles_loss",
+    "mgso4_loss",
+    "flakiness_index"
+  ],
+  "target": "optimum_bitumen_ratio",
+  "target_unit": "percentage points by mass of dry aggregate; manuscript convention",
+  "algorithm": "ExtraTreesRegressor; family retained from original manuscript",
+  "outer_folds": 5,
+  "inner_folds": 4,
+  "search_iterations": 25,
+  "search_scoring": "neg_mean_absolute_error",
+  "search_grid": {
+    "model__n_estimators": [
+      150,
+      300,
+      450
+    ],
+    "model__max_depth": [
+      null,
+      8,
+      12
+    ],
+    "model__min_samples_leaf": [
+      1,
+      2,
+      3
+    ],
+    "model__max_features": [
+      "sqrt",
+      0.6,
+      1.0
+    ]
+  },
+  "fixed_sensitivity_parameters": {
+    "n_estimators": 150,
+    "max_depth": 8,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt"
+  },
+  "temporal_cutoff": "2022-01-01",
+  "temporal_inner": "4 forward splits of distinct training years; equal years kept together",
+  "notes": [
+    "Grouped outer and inner splits use quarry identifiers and layer stratification.",
+    "Headline CV metrics pool the out-of-fold predictions; they are not means of fold R2.",
+    "Layer means are estimated only from the corresponding training partition.",
+    "No fold-independence confidence intervals or p-values are calculated.",
+    "Ablation and leave-one-quarry-out analyses reuse previously reported hyperparameters and are sensitivity analyses.",
+    "This is retrospective internal validation, not independent-laboratory external validation.",
+    "The temporal cutoff was chosen from calendar-year counts before calculating this run results.",
+    "No new all-algorithm model-family selection is performed.",
+    "Only trailing/leading quarry whitespace is normalized; no material measurements are edited.",
+    "Project, batch and laboratory fields are unfilled; quarry grouping does not prove project independence."
+  ],
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "scikit_learn": "1.8.0"
+  },
+  "binder_clarification": {
+    "date": "2026-10-14",
+    "source": "author final correction: modifiye bitümleri kırıkkale olarak al",
+    "refinery": "Aliağa for 188 conventional records; Kırıkkale for 15 PMB and 1 KMB records",
+    "types": {
+      "conventional": 188,
+      "PMB": 15,
+      "KMB": 1
+    },
+    "note": "Binder type, grade, source and batch are not inputs in this analysis. Modified/unmodified comparisons are descriptive within wearing course."
+  }
+}

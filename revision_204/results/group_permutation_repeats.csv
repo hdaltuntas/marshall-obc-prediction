@@ -1,0 +1,1051 @@
+fold,mode,group,repeat,n,increase_mae
+1,Across layers,Layer type,0,42,0.07689235932427041
+1,Across layers,Layer type,1,42,0.0752758236741436
+1,Across layers,Layer type,2,42,0.09039661735913304
+1,Across layers,Layer type,3,42,0.07849824372951753
+1,Across layers,Layer type,4,42,0.09031420271680185
+1,Across layers,Layer type,5,42,0.07060121467046221
+1,Across layers,Layer type,6,42,0.06748754495739004
+1,Across layers,Layer type,7,42,0.0667993512625997
+1,Across layers,Layer type,8,42,0.08045754721334147
+1,Across layers,Layer type,9,42,0.07718337793153965
+1,Across layers,Layer type,10,42,0.07671652554758498
+1,Across layers,Layer type,11,42,0.06792608965591349
+1,Across layers,Layer type,12,42,0.07440798839967161
+1,Across layers,Layer type,13,42,0.09290468179290806
+1,Across layers,Layer type,14,42,0.06774322802358607
+1,Across layers,Layer type,15,42,0.08475104558397875
+1,Across layers,Layer type,16,42,0.08428222170353147
+1,Across layers,Layer type,17,42,0.0923616643034425
+1,Across layers,Layer type,18,42,0.05051165151191336
+1,Across layers,Layer type,19,42,0.06842684862661164
+1,Across layers,Layer type,20,42,0.055948983710855014
+1,Across layers,Layer type,21,42,0.05326393525842834
+1,Across layers,Layer type,22,42,0.09010577822986071
+1,Across layers,Layer type,23,42,0.07205838927078337
+1,Across layers,Layer type,24,42,0.05261467822270554
+1,Across layers,Layer type,25,42,0.07301086194218886
+1,Across layers,Layer type,26,42,0.09215250703948705
+1,Across layers,Layer type,27,42,0.09768988310152321
+1,Across layers,Layer type,28,42,0.07556002747627863
+1,Across layers,Layer type,29,42,0.07371072728213027
+1,Across layers,Gradation,0,42,0.21684662369129837
+1,Across layers,Gradation,1,42,0.20327151383460934
+1,Across layers,Gradation,2,42,0.17514386329008588
+1,Across layers,Gradation,3,42,0.18897887354327142
+1,Across layers,Gradation,4,42,0.23415301800547395
+1,Across layers,Gradation,5,42,0.16748386798655676
+1,Across layers,Gradation,6,42,0.19336889430967774
+1,Across layers,Gradation,7,42,0.2336227641831521
+1,Across layers,Gradation,8,42,0.20155497941643524
+1,Across layers,Gradation,9,42,0.2253321584032657
+1,Across layers,Gradation,10,42,0.17830690669826793
+1,Across layers,Gradation,11,42,0.21510639415415106
+1,Across layers,Gradation,12,42,0.2038003410333608
+1,Across layers,Gradation,13,42,0.1886680869058356
+1,Across layers,Gradation,14,42,0.20347289545000885
+1,Across layers,Gradation,15,42,0.23696387277792041
+1,Across layers,Gradation,16,42,0.2037004130966426
+1,Across layers,Gradation,17,42,0.1641616449380573
+1,Across layers,Gradation,18,42,0.21614566552686587
+1,Across layers,Gradation,19,42,0.20354620232863413
+1,Across layers,Gradation,20,42,0.2061927190967513
+1,Across layers,Gradation,21,42,0.25753888456111207
+1,Across layers,Gradation,22,42,0.17863855176576265
+1,Across layers,Gradation,23,42,0.21464332265686747
+1,Across layers,Gradation,24,42,0.1789237316422191
+1,Across layers,Gradation,25,42,0.1974301805779471
+1,Across layers,Gradation,26,42,0.22374399397960926
+1,Across layers,Gradation,27,42,0.222650539788947
+1,Across layers,Gradation,28,42,0.24134889863889436
+1,Across layers,Gradation,29,42,0.15588990438523262
+1,Across layers,Binder properties,0,42,-0.0005724469030432
+1,Across layers,Binder properties,1,42,5.0392347346751853e-05
+1,Across layers,Binder properties,2,42,0.0008963338509898472
+1,Across layers,Binder properties,3,42,-0.0011484482061914006
+1,Across layers,Binder properties,4,42,0.00011823627389109109
+1,Across layers,Binder properties,5,42,0.000425124580840687
+1,Across layers,Binder properties,6,42,0.00021887505536787727
+1,Across layers,Binder properties,7,42,0.0002743645433128383
+1,Across layers,Binder properties,8,42,-0.00021662551641812855
+1,Across layers,Binder properties,9,42,0.00030394149406046816
+1,Across layers,Binder properties,10,42,-0.0009622402440047431
+1,Across layers,Binder properties,11,42,-0.0011112280900356583
+1,Across layers,Binder properties,12,42,0.00033855741972252384
+1,Across layers,Binder properties,13,42,-0.000571972904722863
+1,Across layers,Binder properties,14,42,0.00047122968062584397
+1,Across layers,Binder properties,15,42,-0.00024001562894940265
+1,Across layers,Binder properties,16,42,-0.0009092743941361281
+1,Across layers,Binder properties,17,42,-0.0003289658343172408
+1,Across layers,Binder properties,18,42,0.00015296914524363936
+1,Across layers,Binder properties,19,42,0.001085673833219468
+1,Across layers,Binder properties,20,42,-0.0005374964616250005
+1,Across layers,Binder properties,21,42,0.0001871268023434028
+1,Across layers,Binder properties,22,42,0.0007544408259120353
+1,Across layers,Binder properties,23,42,0.000703156034785872
+1,Across layers,Binder properties,24,42,-0.0002052056575888514
+1,Across layers,Binder properties,25,42,-0.00019457956991213166
+1,Across layers,Binder properties,26,42,0.0004817617364350976
+1,Across layers,Binder properties,27,42,-0.0002807883746815537
+1,Across layers,Binder properties,28,42,0.0006758424536751004
+1,Across layers,Binder properties,29,42,-0.00030293869167783566
+1,Across layers,Aggregate quality,0,42,0.0005018117301058972
+1,Across layers,Aggregate quality,1,42,0.0005530855593651532
+1,Across layers,Aggregate quality,2,42,-1.8422156204352114e-05
+1,Across layers,Aggregate quality,3,42,-0.0001880986538034951
+1,Across layers,Aggregate quality,4,42,-0.0010224493015433683
+1,Across layers,Aggregate quality,5,42,0.0010323507622671466
+1,Across layers,Aggregate quality,6,42,-0.00038616173237315116
+1,Across layers,Aggregate quality,7,42,-0.0019251936197290792
+1,Across layers,Aggregate quality,8,42,-0.00035954438505837044
+1,Across layers,Aggregate quality,9,42,0.00015275016954429538
+1,Across layers,Aggregate quality,10,42,-0.0005439213352641456
+1,Across layers,Aggregate quality,11,42,-0.000126345854243419
+1,Across layers,Aggregate quality,12,42,0.0003099307024843484
+1,Across layers,Aggregate quality,13,42,0.00015493882986463564
+1,Across layers,Aggregate quality,14,42,-5.515949624394778e-05
+1,Across layers,Aggregate quality,15,42,0.0011717985934415406
+1,Across layers,Aggregate quality,16,42,-0.000777979285507685
+1,Across layers,Aggregate quality,17,42,0.001124906887885739
+1,Across layers,Aggregate quality,18,42,-0.0002880825026878586
+1,Across layers,Aggregate quality,19,42,0.0022192867272094116
+1,Across layers,Aggregate quality,20,42,0.0007084956092220096
+1,Across layers,Aggregate quality,21,42,0.0017277934668183809
+1,Across layers,Aggregate quality,22,42,-0.00011511895913786374
+1,Across layers,Aggregate quality,23,42,-0.0013928195244226685
+1,Across layers,Aggregate quality,24,42,0.0006545621269353694
+1,Across layers,Aggregate quality,25,42,-0.00012396710951521894
+1,Across layers,Aggregate quality,26,42,0.0007789574586763298
+1,Across layers,Aggregate quality,27,42,0.00036076292102268925
+1,Across layers,Aggregate quality,28,42,2.0363275979533302e-05
+1,Across layers,Aggregate quality,29,42,0.0013221443816948883
+1,Within layer,Gradation,0,42,-0.0027231759777700815
+1,Within layer,Gradation,1,42,-0.002155268793396739
+1,Within layer,Gradation,2,42,-0.001878493209366866
+1,Within layer,Gradation,3,42,-0.002978122087526236
+1,Within layer,Gradation,4,42,-0.0004906330491572242
+1,Within layer,Gradation,5,42,-0.00531244194610582
+1,Within layer,Gradation,6,42,-0.005096226208275684
+1,Within layer,Gradation,7,42,-0.0013762577966428477
+1,Within layer,Gradation,8,42,-0.0026292312416030736
+1,Within layer,Gradation,9,42,0.0023332135388232297
+1,Within layer,Gradation,10,42,-0.00276722002398027
+1,Within layer,Gradation,11,42,-0.0006398869409425939
+1,Within layer,Gradation,12,42,0.0013232331597031188
+1,Within layer,Gradation,13,42,-0.0009849623219876091
+1,Within layer,Gradation,14,42,-0.00025907596380145975
+1,Within layer,Gradation,15,42,-0.004636934695767321
+1,Within layer,Gradation,16,42,-0.001046572916001437
+1,Within layer,Gradation,17,42,-0.0013474411344203616
+1,Within layer,Gradation,18,42,0.00032094772026613344
+1,Within layer,Gradation,19,42,-0.001962914302766121
+1,Within layer,Gradation,20,42,-0.0024666852896139263
+1,Within layer,Gradation,21,42,-0.0005412076578433511
+1,Within layer,Gradation,22,42,-0.006092775478271674
+1,Within layer,Gradation,23,42,-0.0009721402570406906
+1,Within layer,Gradation,24,42,-0.0038293412753773112
+1,Within layer,Gradation,25,42,-0.0014862984053155628
+1,Within layer,Gradation,26,42,-0.0027693813130934275
+1,Within layer,Gradation,27,42,-0.0007483025129224607
+1,Within layer,Gradation,28,42,-0.00030479261705065874
+1,Within layer,Gradation,29,42,0.00011624574388853504
+1,Within layer,Binder properties,0,42,-0.0001395778473496992
+1,Within layer,Binder properties,1,42,9.669726867579664e-05
+1,Within layer,Binder properties,2,42,0.00022438760789630918
+1,Within layer,Binder properties,3,42,-0.0004541195011989116
+1,Within layer,Binder properties,4,42,0.0004446801867749109
+1,Within layer,Binder properties,5,42,-0.0010235741493292913
+1,Within layer,Binder properties,6,42,-0.0004974450449511877
+1,Within layer,Binder properties,7,42,0.00011234459853221718
+1,Within layer,Binder properties,8,42,-0.0010623582050997213
+1,Within layer,Binder properties,9,42,0.00010367138709545254
+1,Within layer,Binder properties,10,42,-0.0013647964481720426
+1,Within layer,Binder properties,11,42,0.000320663178917574
+1,Within layer,Binder properties,12,42,-0.0014821147447955166
+1,Within layer,Binder properties,13,42,9.902720486394678e-05
+1,Within layer,Binder properties,14,42,-0.0006542598831106444
+1,Within layer,Binder properties,15,42,-0.0003748988128376915
+1,Within layer,Binder properties,16,42,-0.000619504463653324
+1,Within layer,Binder properties,17,42,-5.965039480564788e-05
+1,Within layer,Binder properties,18,42,-0.00014395505906768247
+1,Within layer,Binder properties,19,42,0.0006488635691966615
+1,Within layer,Binder properties,20,42,-0.0005205013117687007
+1,Within layer,Binder properties,21,42,-0.00041700769627005946
+1,Within layer,Binder properties,22,42,4.018173307959033e-05
+1,Within layer,Binder properties,23,42,-0.0004884214004347923
+1,Within layer,Binder properties,24,42,-0.00042283571377545875
+1,Within layer,Binder properties,25,42,5.890756276498432e-05
+1,Within layer,Binder properties,26,42,0.00043602335898811073
+1,Within layer,Binder properties,27,42,0.0002228844014362935
+1,Within layer,Binder properties,28,42,-0.0008711838316660392
+1,Within layer,Binder properties,29,42,0.0006623079072798979
+1,Within layer,Aggregate quality,0,42,-0.0004480828684055166
+1,Within layer,Aggregate quality,1,42,-1.0914028728971348e-05
+1,Within layer,Aggregate quality,2,42,-0.001080513011561049
+1,Within layer,Aggregate quality,3,42,-0.0007625274545763894
+1,Within layer,Aggregate quality,4,42,0.0004225325409533409
+1,Within layer,Aggregate quality,5,42,-0.0010515205620954468
+1,Within layer,Aggregate quality,6,42,0.0004985149306786854
+1,Within layer,Aggregate quality,7,42,-0.00020921863291555737
+1,Within layer,Aggregate quality,8,42,0.0015821505978784178
+1,Within layer,Aggregate quality,9,42,-0.0006175322140104106
+1,Within layer,Aggregate quality,10,42,-0.0005249755349516841
+1,Within layer,Aggregate quality,11,42,0.00044946021093397043
+1,Within layer,Aggregate quality,12,42,-0.0006325987578259529
+1,Within layer,Aggregate quality,13,42,-0.0013645154127098283
+1,Within layer,Aggregate quality,14,42,-0.0012301272410926156
+1,Within layer,Aggregate quality,15,42,-0.0013521035380230015
+1,Within layer,Aggregate quality,16,42,-0.002301029967075416
+1,Within layer,Aggregate quality,17,42,-0.001403015187517953
+1,Within layer,Aggregate quality,18,42,-0.0010824951673615094
+1,Within layer,Aggregate quality,19,42,-0.00036970393968065174
+1,Within layer,Aggregate quality,20,42,0.0011761729841019558
+1,Within layer,Aggregate quality,21,42,-8.294214673706946e-05
+1,Within layer,Aggregate quality,22,42,-0.0014930754288070835
+1,Within layer,Aggregate quality,23,42,-0.0010370572937024522
+1,Within layer,Aggregate quality,24,42,0.00046488641712093964
+1,Within layer,Aggregate quality,25,42,0.0006362639149808946
+1,Within layer,Aggregate quality,26,42,-9.619018151736658e-05
+1,Within layer,Aggregate quality,27,42,-0.00022343254267354062
+1,Within layer,Aggregate quality,28,42,0.0002929034439792949
+1,Within layer,Aggregate quality,29,42,0.0005884628710788251
+2,Across layers,Layer type,0,38,0.09252696837916284
+2,Across layers,Layer type,1,38,0.05460545314659511
+2,Across layers,Layer type,2,38,0.06792589671074976
+2,Across layers,Layer type,3,38,0.06669926512998552
+2,Across layers,Layer type,4,38,0.0587849851771078
+2,Across layers,Layer type,5,38,0.053961330986437406
+2,Across layers,Layer type,6,38,0.0750884267082551
+2,Across layers,Layer type,7,38,0.05822024842804603
+2,Across layers,Layer type,8,38,0.07282743837886789
+2,Across layers,Layer type,9,38,0.08251910314859227
+2,Across layers,Layer type,10,38,0.07041048333995882
+2,Across layers,Layer type,11,38,0.06362041997774585
+2,Across layers,Layer type,12,38,0.059077582798793285
+2,Across layers,Layer type,13,38,0.06337574106660766
+2,Across layers,Layer type,14,38,0.08484172470601255
+2,Across layers,Layer type,15,38,0.06035107528482177
+2,Across layers,Layer type,16,38,0.07386862964330897
+2,Across layers,Layer type,17,38,0.07232304031931162
+2,Across layers,Layer type,18,38,0.06781705054047076
+2,Across layers,Layer type,19,38,0.0691479775834835
+2,Across layers,Layer type,20,38,0.04783768659782192
+2,Across layers,Layer type,21,38,0.06765057167835116
+2,Across layers,Layer type,22,38,0.08796353852992785
+2,Across layers,Layer type,23,38,0.0717408878458413
+2,Across layers,Layer type,24,38,0.07236450545717331
+2,Across layers,Layer type,25,38,0.07886156535009443
+2,Across layers,Layer type,26,38,0.07599592434907874
+2,Across layers,Layer type,27,38,0.08621472791329703
+2,Across layers,Layer type,28,38,0.0792016887223813
+2,Across layers,Layer type,29,38,0.07061583235861855
+2,Across layers,Gradation,0,38,0.2808151558692701
+2,Across layers,Gradation,1,38,0.17031780353628678
+2,Across layers,Gradation,2,38,0.19559966486309432
+2,Across layers,Gradation,3,38,0.22934013772854006
+2,Across layers,Gradation,4,38,0.23201243284996564
+2,Across layers,Gradation,5,38,0.20916776905835494
+2,Across layers,Gradation,6,38,0.2068719198995182
+2,Across layers,Gradation,7,38,0.24493964638422416
+2,Across layers,Gradation,8,38,0.22975219425922988
+2,Across layers,Gradation,9,38,0.20933073910563732
+2,Across layers,Gradation,10,38,0.22764548842896476
+2,Across layers,Gradation,11,38,0.22466739222287724
+2,Across layers,Gradation,12,38,0.22414904562257293
+2,Across layers,Gradation,13,38,0.2082063483644292
+2,Across layers,Gradation,14,38,0.22571950647207129
+2,Across layers,Gradation,15,38,0.23112386399108859
+2,Across layers,Gradation,16,38,0.23368806134456538
+2,Across layers,Gradation,17,38,0.1933494720797177
+2,Across layers,Gradation,18,38,0.22457659893232856
+2,Across layers,Gradation,19,38,0.22307740023623218
+2,Across layers,Gradation,20,38,0.23890140398569598
+2,Across layers,Gradation,21,38,0.213936250694704
+2,Across layers,Gradation,22,38,0.14785179277031973
+2,Across layers,Gradation,23,38,0.2017295376777975
+2,Across layers,Gradation,24,38,0.14755127049853645
+2,Across layers,Gradation,25,38,0.2240273808047774
+2,Across layers,Gradation,26,38,0.22109888889454365
+2,Across layers,Gradation,27,38,0.23322854751748406
+2,Across layers,Gradation,28,38,0.2111378061677205
+2,Across layers,Gradation,29,38,0.20031659738431984
+2,Across layers,Binder properties,0,38,-0.0022091102262437046
+2,Across layers,Binder properties,1,38,0.002157202902007757
+2,Across layers,Binder properties,2,38,6.844407621046933e-05
+2,Across layers,Binder properties,3,38,0.002192093495363423
+2,Across layers,Binder properties,4,38,0.003398521000403318
+2,Across layers,Binder properties,5,38,0.001593689633093795
+2,Across layers,Binder properties,6,38,0.0012681766687064056
+2,Across layers,Binder properties,7,38,0.0016906525738923234
+2,Across layers,Binder properties,8,38,0.001801747116357208
+2,Across layers,Binder properties,9,38,0.0002735648131056978
+2,Across layers,Binder properties,10,38,1.7976196472813122e-05
+2,Across layers,Binder properties,11,38,0.0005076793803336227
+2,Across layers,Binder properties,12,38,0.0008444490333001792
+2,Across layers,Binder properties,13,38,0.0005416534062197415
+2,Across layers,Binder properties,14,38,-0.0002878597222037982
+2,Across layers,Binder properties,15,38,0.00039275239085787006
+2,Across layers,Binder properties,16,38,0.0017765470630188712
+2,Across layers,Binder properties,17,38,0.0008270065256121562
+2,Across layers,Binder properties,18,38,0.0028902789604794837
+2,Across layers,Binder properties,19,38,0.002752650571470963
+2,Across layers,Binder properties,20,38,0.000968144706304519
+2,Across layers,Binder properties,21,38,-0.00014854026497043704
+2,Across layers,Binder properties,22,38,0.0033047141356087745
+2,Across layers,Binder properties,23,38,0.0006153403042144234
+2,Across layers,Binder properties,24,38,0.0011915694684973277
+2,Across layers,Binder properties,25,38,0.00314606362092984
+2,Across layers,Binder properties,26,38,-0.0007217246439638753
+2,Across layers,Binder properties,27,38,0.0006476384430169208
+2,Across layers,Binder properties,28,38,-9.927705915993568e-05
+2,Across layers,Binder properties,29,38,0.0023466580067715015
+2,Across layers,Aggregate quality,0,38,0.0012190740080224582
+2,Across layers,Aggregate quality,1,38,0.00023295006376281013
+2,Across layers,Aggregate quality,2,38,0.0007096468736445261
+2,Across layers,Aggregate quality,3,38,0.0018431889425799541
+2,Across layers,Aggregate quality,4,38,0.0005984005945397497
+2,Across layers,Aggregate quality,5,38,0.00036650880785640827
+2,Across layers,Aggregate quality,6,38,0.000335278969101821
+2,Across layers,Aggregate quality,7,38,0.00014604185253730417
+2,Across layers,Aggregate quality,8,38,0.0006529625322071742
+2,Across layers,Aggregate quality,9,38,0.0015137589442692917
+2,Across layers,Aggregate quality,10,38,0.0015279506557099726
+2,Across layers,Aggregate quality,11,38,0.0005140524026564786
+2,Across layers,Aggregate quality,12,38,0.001031330342408529
+2,Across layers,Aggregate quality,13,38,0.0010445429845367948
+2,Across layers,Aggregate quality,14,38,0.0020802943063249063
+2,Across layers,Aggregate quality,15,38,0.0015935896611092015
+2,Across layers,Aggregate quality,16,38,0.0002544112215676908
+2,Across layers,Aggregate quality,17,38,0.0010625466737600453
+2,Across layers,Aggregate quality,18,38,0.0019476360354103717
+2,Across layers,Aggregate quality,19,38,0.0005017767912254556
+2,Across layers,Aggregate quality,20,38,0.0007637021323685378
+2,Across layers,Aggregate quality,21,38,0.0009080384068787528
+2,Across layers,Aggregate quality,22,38,0.00043899158736174226
+2,Across layers,Aggregate quality,23,38,0.0012379737213301933
+2,Across layers,Aggregate quality,24,38,0.0005867021491473556
+2,Across layers,Aggregate quality,25,38,-3.0924881447152996e-05
+2,Across layers,Aggregate quality,26,38,0.0009391813586034914
+2,Across layers,Aggregate quality,27,38,0.000919431642263463
+2,Across layers,Aggregate quality,28,38,0.001114994782490511
+2,Across layers,Aggregate quality,29,38,0.0011059521865593447
+2,Within layer,Gradation,0,38,0.02298963750049013
+2,Within layer,Gradation,1,38,0.01623495920476027
+2,Within layer,Gradation,2,38,0.011849763832454646
+2,Within layer,Gradation,3,38,0.010374851780103875
+2,Within layer,Gradation,4,38,0.021410745339124182
+2,Within layer,Gradation,5,38,0.022426650364176112
+2,Within layer,Gradation,6,38,0.011902890034185362
+2,Within layer,Gradation,7,38,0.014949817702110818
+2,Within layer,Gradation,8,38,0.009991538741048855
+2,Within layer,Gradation,9,38,0.021291201867638804
+2,Within layer,Gradation,10,38,0.017881237707476433
+2,Within layer,Gradation,11,38,0.021520951068883645
+2,Within layer,Gradation,12,38,0.021977735565399878
+2,Within layer,Gradation,13,38,0.02084789374521734
+2,Within layer,Gradation,14,38,0.011066606677144417
+2,Within layer,Gradation,15,38,0.010752215641769813
+2,Within layer,Gradation,16,38,0.02686811916969646
+2,Within layer,Gradation,17,38,0.010291791006869264
+2,Within layer,Gradation,18,38,0.008276589981946525
+2,Within layer,Gradation,19,38,0.008100072760028582
+2,Within layer,Gradation,20,38,0.01116720993958746
+2,Within layer,Gradation,21,38,0.014441426119887343
+2,Within layer,Gradation,22,38,0.02162991285896476
+2,Within layer,Gradation,23,38,0.01139743697800187
+2,Within layer,Gradation,24,38,0.01853132876886375
+2,Within layer,Gradation,25,38,0.01751697518721068
+2,Within layer,Gradation,26,38,0.02328345817618724
+2,Within layer,Gradation,27,38,0.005392258149522461
+2,Within layer,Gradation,28,38,0.025087079506507903
+2,Within layer,Gradation,29,38,0.002842362812637833
+2,Within layer,Binder properties,0,38,0.00019600360945988549
+2,Within layer,Binder properties,1,38,0.0012763470375190267
+2,Within layer,Binder properties,2,38,0.0006615185339661628
+2,Within layer,Binder properties,3,38,-0.0019497109478461006
+2,Within layer,Binder properties,4,38,0.0003451700723565432
+2,Within layer,Binder properties,5,38,0.0010614286871268586
+2,Within layer,Binder properties,6,38,2.6862188114581964e-05
+2,Within layer,Binder properties,7,38,0.001606376369459761
+2,Within layer,Binder properties,8,38,0.003372231392246794
+2,Within layer,Binder properties,9,38,0.0007625680291808157
+2,Within layer,Binder properties,10,38,0.001940273400254447
+2,Within layer,Binder properties,11,38,-0.0012449681943640378
+2,Within layer,Binder properties,12,38,0.0002931839733731345
+2,Within layer,Binder properties,13,38,0.0017432453490404398
+2,Within layer,Binder properties,14,38,0.0004545317947643873
+2,Within layer,Binder properties,15,38,0.0002621165148494614
+2,Within layer,Binder properties,16,38,0.00150026338471404
+2,Within layer,Binder properties,17,38,0.0009382288010970768
+2,Within layer,Binder properties,18,38,-0.0009175566252670603
+2,Within layer,Binder properties,19,38,0.0006784485131727663
+2,Within layer,Binder properties,20,38,0.0027858198250691607
+2,Within layer,Binder properties,21,38,0.0014401004918205423
+2,Within layer,Binder properties,22,38,0.0009692820012568715
+2,Within layer,Binder properties,23,38,0.002619452558205615
+2,Within layer,Binder properties,24,38,0.001874180177443896
+2,Within layer,Binder properties,25,38,0.0019162031421355585
+2,Within layer,Binder properties,26,38,0.0011690613551642165
+2,Within layer,Binder properties,27,38,0.000605125727952946
+2,Within layer,Binder properties,28,38,0.0026713912766357373
+2,Within layer,Binder properties,29,38,0.0009703618960578697
+2,Within layer,Aggregate quality,0,38,0.000902716867344916
+2,Within layer,Aggregate quality,1,38,0.0012322650214590114
+2,Within layer,Aggregate quality,2,38,0.0011489539752031208
+2,Within layer,Aggregate quality,3,38,0.0017067948878430467
+2,Within layer,Aggregate quality,4,38,0.0008972854702907901
+2,Within layer,Aggregate quality,5,38,0.0008488254099943277
+2,Within layer,Aggregate quality,6,38,0.0016461778683046907
+2,Within layer,Aggregate quality,7,38,0.0023640412390055626
+2,Within layer,Aggregate quality,8,38,0.0009090519639537581
+2,Within layer,Aggregate quality,9,38,0.0006981328118199348
+2,Within layer,Aggregate quality,10,38,0.0012922153991678231
+2,Within layer,Aggregate quality,11,38,-0.00036307169524693594
+2,Within layer,Aggregate quality,12,38,0.0011021445826483872
+2,Within layer,Aggregate quality,13,38,0.000697024467609178
+2,Within layer,Aggregate quality,14,38,0.0019394133247989942
+2,Within layer,Aggregate quality,15,38,0.0011908912500104424
+2,Within layer,Aggregate quality,16,38,0.0015362583170202976
+2,Within layer,Aggregate quality,17,38,-0.00020126919767238238
+2,Within layer,Aggregate quality,18,38,0.0010493400597993002
+2,Within layer,Aggregate quality,19,38,0.0010827822282463567
+2,Within layer,Aggregate quality,20,38,-0.000505159927719448
+2,Within layer,Aggregate quality,21,38,0.0017630104918610473
+2,Within layer,Aggregate quality,22,38,0.001617548133898583
+2,Within layer,Aggregate quality,23,38,0.0019839144881973886
+2,Within layer,Aggregate quality,24,38,0.0006309360262277963
+2,Within layer,Aggregate quality,25,38,0.0006758809901798168
+2,Within layer,Aggregate quality,26,38,0.0004223916222781815
+2,Within layer,Aggregate quality,27,38,0.001653710596563468
+2,Within layer,Aggregate quality,28,38,-1.8324855466350654e-05
+2,Within layer,Aggregate quality,29,38,0.0008302668593666573
+3,Across layers,Layer type,0,49,0.07953849420471075
+3,Across layers,Layer type,1,49,0.04093834148132057
+3,Across layers,Layer type,2,49,0.05258524472210137
+3,Across layers,Layer type,3,49,0.07248928019834568
+3,Across layers,Layer type,4,49,0.0460999900615328
+3,Across layers,Layer type,5,49,0.05889913533576287
+3,Across layers,Layer type,6,49,0.07201979796335774
+3,Across layers,Layer type,7,49,0.053034038315629764
+3,Across layers,Layer type,8,49,0.06592471864173831
+3,Across layers,Layer type,9,49,0.04294714980224963
+3,Across layers,Layer type,10,49,0.07321093693190432
+3,Across layers,Layer type,11,49,0.06947651164640416
+3,Across layers,Layer type,12,49,0.05991760811689671
+3,Across layers,Layer type,13,49,0.07054857998956178
+3,Across layers,Layer type,14,49,0.06780177697359259
+3,Across layers,Layer type,15,49,0.05068471853791896
+3,Across layers,Layer type,16,49,0.059645144102335165
+3,Across layers,Layer type,17,49,0.04542441737930007
+3,Across layers,Layer type,18,49,0.05966375859783336
+3,Across layers,Layer type,19,49,0.06866100055489717
+3,Across layers,Layer type,20,49,0.06095879259339694
+3,Across layers,Layer type,21,49,0.06601685543598794
+3,Across layers,Layer type,22,49,0.06199705425902023
+3,Across layers,Layer type,23,49,0.074360983192773
+3,Across layers,Layer type,24,49,0.0580826185645522
+3,Across layers,Layer type,25,49,0.056809190007156715
+3,Across layers,Layer type,26,49,0.07900425538848486
+3,Across layers,Layer type,27,49,0.05697264411152218
+3,Across layers,Layer type,28,49,0.062406196388259436
+3,Across layers,Layer type,29,49,0.07576511968666151
+3,Across layers,Gradation,0,49,0.17774123191257074
+3,Across layers,Gradation,1,49,0.21801293680271527
+3,Across layers,Gradation,2,49,0.20820579679061468
+3,Across layers,Gradation,3,49,0.20615901076050908
+3,Across layers,Gradation,4,49,0.2574695674305181
+3,Across layers,Gradation,5,49,0.24523862942299873
+3,Across layers,Gradation,6,49,0.231388554668713
+3,Across layers,Gradation,7,49,0.1950261696524656
+3,Across layers,Gradation,8,49,0.20339753711949937
+3,Across layers,Gradation,9,49,0.23361001536443754
+3,Across layers,Gradation,10,49,0.19152907685029014
+3,Across layers,Gradation,11,49,0.17413773090924484
+3,Across layers,Gradation,12,49,0.24746851798535713
+3,Across layers,Gradation,13,49,0.19747809516909764
+3,Across layers,Gradation,14,49,0.18156755419085086
+3,Across layers,Gradation,15,49,0.2087745636158997
+3,Across layers,Gradation,16,49,0.21136906319458765
+3,Across layers,Gradation,17,49,0.2169409780141041
+3,Across layers,Gradation,18,49,0.19054570183465458
+3,Across layers,Gradation,19,49,0.19420404316658202
+3,Across layers,Gradation,20,49,0.16944519809919056
+3,Across layers,Gradation,21,49,0.1843115950945548
+3,Across layers,Gradation,22,49,0.1858406700618465
+3,Across layers,Gradation,23,49,0.17876396419885504
+3,Across layers,Gradation,24,49,0.1588542411091109
+3,Across layers,Gradation,25,49,0.21674565260390788
+3,Across layers,Gradation,26,49,0.2092025172754498
+3,Across layers,Gradation,27,49,0.21962145095470664
+3,Across layers,Gradation,28,49,0.17231491671010468
+3,Across layers,Gradation,29,49,0.20097388354510815
+3,Across layers,Binder properties,0,49,0.0011742352673316941
+3,Across layers,Binder properties,1,49,0.0016338357417166188
+3,Across layers,Binder properties,2,49,0.001649249713865028
+3,Across layers,Binder properties,3,49,0.0010285130837406065
+3,Across layers,Binder properties,4,49,0.000863634221246648
+3,Across layers,Binder properties,5,49,0.0012401661778027318
+3,Across layers,Binder properties,6,49,0.0010693403339474966
+3,Across layers,Binder properties,7,49,0.0013058230800808007
+3,Across layers,Binder properties,8,49,0.0005939192999185189
+3,Across layers,Binder properties,9,49,0.0012420527909175888
+3,Across layers,Binder properties,10,49,0.0011837359159515282
+3,Across layers,Binder properties,11,49,0.0006476807228487091
+3,Across layers,Binder properties,12,49,0.00034871351335190315
+3,Across layers,Binder properties,13,49,0.0012279296607147216
+3,Across layers,Binder properties,14,49,0.0011128820351583302
+3,Across layers,Binder properties,15,49,0.00017080678462162713
+3,Across layers,Binder properties,16,49,0.001448892480780381
+3,Across layers,Binder properties,17,49,0.0007830622115962138
+3,Across layers,Binder properties,18,49,0.000732429917455174
+3,Across layers,Binder properties,19,49,-0.0007482234195203552
+3,Across layers,Binder properties,20,49,0.0008639837035441245
+3,Across layers,Binder properties,21,49,0.001277371471719066
+3,Across layers,Binder properties,22,49,0.0018084796497188221
+3,Across layers,Binder properties,23,49,0.001313891164056627
+3,Across layers,Binder properties,24,49,0.0009687933499065021
+3,Across layers,Binder properties,25,49,0.001544516551797659
+3,Across layers,Binder properties,26,49,0.0017031243606279028
+3,Across layers,Binder properties,27,49,0.0010780882037030592
+3,Across layers,Binder properties,28,49,-3.396547609840761e-05
+3,Across layers,Binder properties,29,49,0.001241505212664945
+3,Across layers,Aggregate quality,0,49,0.00010700280940124929
+3,Across layers,Aggregate quality,1,49,-0.0004746313318953477
+3,Across layers,Aggregate quality,2,49,-0.0002986887209440736
+3,Across layers,Aggregate quality,3,49,-0.0005453316589743157
+3,Across layers,Aggregate quality,4,49,0.0006244096024702883
+3,Across layers,Aggregate quality,5,49,3.475215483193794e-05
+3,Across layers,Aggregate quality,6,49,0.0007123832184773443
+3,Across layers,Aggregate quality,7,49,-0.0009275713795796475
+3,Across layers,Aggregate quality,8,49,-0.00045529634613208914
+3,Across layers,Aggregate quality,9,49,-0.0009612865802787612
+3,Across layers,Aggregate quality,10,49,-0.0005301072360480719
+3,Across layers,Aggregate quality,11,49,-0.0006153565034197755
+3,Across layers,Aggregate quality,12,49,-0.0005882303184367443
+3,Across layers,Aggregate quality,13,49,-0.00012850727295719844
+3,Across layers,Aggregate quality,14,49,-6.585654996388302e-05
+3,Across layers,Aggregate quality,15,49,0.00037650073171295595
+3,Across layers,Aggregate quality,16,49,-0.00017396176341918923
+3,Across layers,Aggregate quality,17,49,6.962974648964948e-05
+3,Across layers,Aggregate quality,18,49,0.00019522484438955212
+3,Across layers,Aggregate quality,19,49,-0.0008573904981150904
+3,Across layers,Aggregate quality,20,49,-0.0010087232505536503
+3,Across layers,Aggregate quality,21,49,-0.001318338310306949
+3,Across layers,Aggregate quality,22,49,-0.0005132092720655096
+3,Across layers,Aggregate quality,23,49,-0.0009021945508706358
+3,Across layers,Aggregate quality,24,49,0.0008052188835550589
+3,Across layers,Aggregate quality,25,49,0.0005438555155652391
+3,Across layers,Aggregate quality,26,49,-0.000340616639310537
+3,Across layers,Aggregate quality,27,49,-0.001076553434389102
+3,Across layers,Aggregate quality,28,49,-0.0009095846529324075
+3,Across layers,Aggregate quality,29,49,9.469769324700616e-05
+3,Within layer,Gradation,0,49,0.011295669660215266
+3,Within layer,Gradation,1,49,0.009777553838668934
+3,Within layer,Gradation,2,49,0.010653180431540996
+3,Within layer,Gradation,3,49,0.010852493924754111
+3,Within layer,Gradation,4,49,0.009703059824988536
+3,Within layer,Gradation,5,49,0.011207691190693023
+3,Within layer,Gradation,6,49,0.01207946612387506
+3,Within layer,Gradation,7,49,0.007117785596655157
+3,Within layer,Gradation,8,49,0.00018269907063662993
+3,Within layer,Gradation,9,49,0.010016609571292356
+3,Within layer,Gradation,10,49,0.008989962179698524
+3,Within layer,Gradation,11,49,0.005215165764599253
+3,Within layer,Gradation,12,49,0.012188450957781816
+3,Within layer,Gradation,13,49,0.010220671919470112
+3,Within layer,Gradation,14,49,0.010673197182313868
+3,Within layer,Gradation,15,49,0.011485494431368759
+3,Within layer,Gradation,16,49,0.009570480499412254
+3,Within layer,Gradation,17,49,0.011585261375257977
+3,Within layer,Gradation,18,49,0.010744511541846663
+3,Within layer,Gradation,19,49,0.011736752836399938
+3,Within layer,Gradation,20,49,0.010845139379694307
+3,Within layer,Gradation,21,49,0.010112902355206912
+3,Within layer,Gradation,22,49,0.007138914387393808
+3,Within layer,Gradation,23,49,0.010477003080150274
+3,Within layer,Gradation,24,49,0.008960607423238925
+3,Within layer,Gradation,25,49,0.01274697527239882
+3,Within layer,Gradation,26,49,0.0024672139694499606
+3,Within layer,Gradation,27,49,0.012442958878408572
+3,Within layer,Gradation,28,49,0.010472790599330983
+3,Within layer,Gradation,29,49,0.011204377843368016
+3,Within layer,Binder properties,0,49,0.0017655756676987766
+3,Within layer,Binder properties,1,49,0.0009519065490643797
+3,Within layer,Binder properties,2,49,0.0010500710553461717
+3,Within layer,Binder properties,3,49,0.00013150630637187577
+3,Within layer,Binder properties,4,49,0.0003367755810811668
+3,Within layer,Binder properties,5,49,0.000328213318600154
+3,Within layer,Binder properties,6,49,0.0002444301926912418
+3,Within layer,Binder properties,7,49,-0.00023116589355925976
+3,Within layer,Binder properties,8,49,0.0017152946145375103
+3,Within layer,Binder properties,9,49,0.0005134510034181389
+3,Within layer,Binder properties,10,49,0.0006522547841483067
+3,Within layer,Binder properties,11,49,-0.0004643331400158296
+3,Within layer,Binder properties,12,49,0.00047399122202181065
+3,Within layer,Binder properties,13,49,0.0009827455914690475
+3,Within layer,Binder properties,14,49,0.00038401572908706993
+3,Within layer,Binder properties,15,49,0.0005594761675268567
+3,Within layer,Binder properties,16,49,0.0014743586681776194
+3,Within layer,Binder properties,17,49,0.00186224082796492
+3,Within layer,Binder properties,18,49,0.0007598037920300421
+3,Within layer,Binder properties,19,49,0.0005739429476251667
+3,Within layer,Binder properties,20,49,0.00043721615619611576
+3,Within layer,Binder properties,21,49,0.0017209811455572432
+3,Within layer,Binder properties,22,49,0.0005569327138032487
+3,Within layer,Binder properties,23,49,0.0010874311602555725
+3,Within layer,Binder properties,24,49,0.0013740302334973309
+3,Within layer,Binder properties,25,49,0.00033564557623615154
+3,Within layer,Binder properties,26,49,0.0009600537118139157
+3,Within layer,Binder properties,27,49,-5.7553985636685234e-05
+3,Within layer,Binder properties,28,49,0.0006094965687313825
+3,Within layer,Binder properties,29,49,0.0008063841797295995
+3,Within layer,Aggregate quality,0,49,-0.000772082188733203
+3,Within layer,Aggregate quality,1,49,0.0006084714960572224
+3,Within layer,Aggregate quality,2,49,0.001061439417643778
+3,Within layer,Aggregate quality,3,49,0.00045373589733686825
+3,Within layer,Aggregate quality,4,49,-0.00022894666043909995
+3,Within layer,Aggregate quality,5,49,0.0008696602740177056
+3,Within layer,Aggregate quality,6,49,0.00046256222055147955
+3,Within layer,Aggregate quality,7,49,0.0005572102790000061
+3,Within layer,Aggregate quality,8,49,0.00012307929187686806
+3,Within layer,Aggregate quality,9,49,-0.00046674981470586074
+3,Within layer,Aggregate quality,10,49,0.0009131921564254908
+3,Within layer,Aggregate quality,11,49,0.00084864021534721
+3,Within layer,Aggregate quality,12,49,0.00044182437257302143
+3,Within layer,Aggregate quality,13,49,-0.0007663486094204447
+3,Within layer,Aggregate quality,14,49,-0.0005831329728890056
+3,Within layer,Aggregate quality,15,49,-0.0003046242721178871
+3,Within layer,Aggregate quality,16,49,2.2963945434578692e-05
+3,Within layer,Aggregate quality,17,49,0.0004579902798178964
+3,Within layer,Aggregate quality,18,49,-4.186827885914457e-05
+3,Within layer,Aggregate quality,19,49,-0.00033752418018291597
+3,Within layer,Aggregate quality,20,49,0.0006707179744047248
+3,Within layer,Aggregate quality,21,49,-0.00022295914072560652
+3,Within layer,Aggregate quality,22,49,-0.0002895550023895299
+3,Within layer,Aggregate quality,23,49,-0.00038304836954050625
+3,Within layer,Aggregate quality,24,49,-0.0006384001939850337
+3,Within layer,Aggregate quality,25,49,-0.0008845600837957129
+3,Within layer,Aggregate quality,26,49,-0.0002878986053050231
+3,Within layer,Aggregate quality,27,49,-0.00019426151840064299
+3,Within layer,Aggregate quality,28,49,0.0001903365536045365
+3,Within layer,Aggregate quality,29,49,-0.0003143377594946456
+4,Across layers,Layer type,0,37,0.04237705880507736
+4,Across layers,Layer type,1,37,0.040096238497821526
+4,Across layers,Layer type,2,37,0.05272401362537589
+4,Across layers,Layer type,3,37,0.05485687967251797
+4,Across layers,Layer type,4,37,0.06370715677160076
+4,Across layers,Layer type,5,37,0.06672214152402005
+4,Across layers,Layer type,6,37,0.055865786571558954
+4,Across layers,Layer type,7,37,0.06028923167284743
+4,Across layers,Layer type,8,37,0.04305820254126677
+4,Across layers,Layer type,9,37,0.06615149914028172
+4,Across layers,Layer type,10,37,0.08619498858250323
+4,Across layers,Layer type,11,37,0.05396591153336945
+4,Across layers,Layer type,12,37,0.06805162759619691
+4,Across layers,Layer type,13,37,0.07142294354824551
+4,Across layers,Layer type,14,37,0.07138146113799772
+4,Across layers,Layer type,15,37,0.04890023704653311
+4,Across layers,Layer type,16,37,0.057811706264914095
+4,Across layers,Layer type,17,37,0.05910981194343386
+4,Across layers,Layer type,18,37,0.09029538423819249
+4,Across layers,Layer type,19,37,0.06318029097268398
+4,Across layers,Layer type,20,37,0.05481848837364188
+4,Across layers,Layer type,21,37,0.07309127108224743
+4,Across layers,Layer type,22,37,0.04679557765162458
+4,Across layers,Layer type,23,37,0.0473625749870768
+4,Across layers,Layer type,24,37,0.06620408345759428
+4,Across layers,Layer type,25,37,0.07619640039551333
+4,Across layers,Layer type,26,37,0.07225638580085657
+4,Across layers,Layer type,27,37,0.08209342219557582
+4,Across layers,Layer type,28,37,0.06526007229931376
+4,Across layers,Layer type,29,37,0.053433766275976194
+4,Across layers,Gradation,0,37,0.17914120552692853
+4,Across layers,Gradation,1,37,0.2465016327937562
+4,Across layers,Gradation,2,37,0.1986992266021741
+4,Across layers,Gradation,3,37,0.18589515196152345
+4,Across layers,Gradation,4,37,0.19909040505017406
+4,Across layers,Gradation,5,37,0.20645995372857984
+4,Across layers,Gradation,6,37,0.22142888636754876
+4,Across layers,Gradation,7,37,0.24058092194276542
+4,Across layers,Gradation,8,37,0.20642269185571205
+4,Across layers,Gradation,9,37,0.21310696103982701
+4,Across layers,Gradation,10,37,0.19823931012849239
+4,Across layers,Gradation,11,37,0.16624629455320716
+4,Across layers,Gradation,12,37,0.24276835186026297
+4,Across layers,Gradation,13,37,0.15732455645663523
+4,Across layers,Gradation,14,37,0.16610496810479636
+4,Across layers,Gradation,15,37,0.26988480175230484
+4,Across layers,Gradation,16,37,0.16979899798971787
+4,Across layers,Gradation,17,37,0.21457567508430586
+4,Across layers,Gradation,18,37,0.21390896123007175
+4,Across layers,Gradation,19,37,0.1546225895863893
+4,Across layers,Gradation,20,37,0.26843038549308146
+4,Across layers,Gradation,21,37,0.2220919190218707
+4,Across layers,Gradation,22,37,0.1464188159817824
+4,Across layers,Gradation,23,37,0.1985728371819796
+4,Across layers,Gradation,24,37,0.1870384802941747
+4,Across layers,Gradation,25,37,0.19625420925313475
+4,Across layers,Gradation,26,37,0.25272866804211347
+4,Across layers,Gradation,27,37,0.15614853430153602
+4,Across layers,Gradation,28,37,0.2634818112535719
+4,Across layers,Gradation,29,37,0.22492798427962885
+4,Across layers,Binder properties,0,37,0.0004401954230131705
+4,Across layers,Binder properties,1,37,-0.0017192766688164107
+4,Across layers,Binder properties,2,37,0.0005859255597949475
+4,Across layers,Binder properties,3,37,-0.000374951771203863
+4,Across layers,Binder properties,4,37,0.0006640126006470237
+4,Across layers,Binder properties,5,37,0.001067404614866263
+4,Across layers,Binder properties,6,37,-0.0012839348994917316
+4,Across layers,Binder properties,7,37,-5.87437855403411e-05
+4,Across layers,Binder properties,8,37,0.00042284192122440944
+4,Across layers,Binder properties,9,37,-7.378656072906664e-06
+4,Across layers,Binder properties,10,37,-0.0004684619063786005
+4,Across layers,Binder properties,11,37,0.0002002904822541729
+4,Across layers,Binder properties,12,37,0.0002661093729031949
+4,Across layers,Binder properties,13,37,0.0006217974908461765
+4,Across layers,Binder properties,14,37,-0.001405259174581161
+4,Across layers,Binder properties,15,37,0.002710268967542978
+4,Across layers,Binder properties,16,37,0.0005389885837748243
+4,Across layers,Binder properties,17,37,0.0006889618621990917
+4,Across layers,Binder properties,18,37,0.00028750444815658915
+4,Across layers,Binder properties,19,37,0.0006635346385279739
+4,Across layers,Binder properties,20,37,-0.0008496806923318501
+4,Across layers,Binder properties,21,37,0.00040950495754871197
+4,Across layers,Binder properties,22,37,0.0009284876935341246
+4,Across layers,Binder properties,23,37,0.00027552882960167613
+4,Across layers,Binder properties,24,37,0.00027503247352944626
+4,Across layers,Binder properties,25,37,-0.0005423049674691816
+4,Across layers,Binder properties,26,37,0.0009874864169213127
+4,Across layers,Binder properties,27,37,0.0006932781777053976
+4,Across layers,Binder properties,28,37,-0.00022576057503935487
+4,Across layers,Binder properties,29,37,-0.0005135489462696485
+4,Across layers,Aggregate quality,0,37,0.0011367182380917773
+4,Across layers,Aggregate quality,1,37,0.0003195191319824847
+4,Across layers,Aggregate quality,2,37,0.0018346812161308262
+4,Across layers,Aggregate quality,3,37,0.002335805187020576
+4,Across layers,Aggregate quality,4,37,-0.0003981055200734246
+4,Across layers,Aggregate quality,5,37,0.0014967397216532063
+4,Across layers,Aggregate quality,6,37,0.000624077672875159
+4,Across layers,Aggregate quality,7,37,0.0006331877704430361
+4,Across layers,Aggregate quality,8,37,0.00028321105991593876
+4,Across layers,Aggregate quality,9,37,0.002061697168776286
+4,Across layers,Aggregate quality,10,37,0.0010305371964909327
+4,Across layers,Aggregate quality,11,37,0.0010407230941405499
+4,Across layers,Aggregate quality,12,37,0.0006508187927435211
+4,Across layers,Aggregate quality,13,37,0.0018404303270207478
+4,Across layers,Aggregate quality,14,37,0.00021583067789048005
+4,Across layers,Aggregate quality,15,37,0.0010425984992957216
+4,Across layers,Aggregate quality,16,37,0.0014324726371363755
+4,Across layers,Aggregate quality,17,37,0.001157837356904473
+4,Across layers,Aggregate quality,18,37,-1.5185612696214101e-05
+4,Across layers,Aggregate quality,19,37,0.0017784246186763608
+4,Across layers,Aggregate quality,20,37,0.0011697122845765184
+4,Across layers,Aggregate quality,21,37,0.0031358481930616328
+4,Across layers,Aggregate quality,22,37,0.00014981900756128042
+4,Across layers,Aggregate quality,23,37,0.0014730058245495392
+4,Across layers,Aggregate quality,24,37,0.0013845338339725927
+4,Across layers,Aggregate quality,25,37,0.0010069532384485436
+4,Across layers,Aggregate quality,26,37,0.0019670818939062085
+4,Across layers,Aggregate quality,27,37,0.0006834873014778947
+4,Across layers,Aggregate quality,28,37,0.0015366010489801102
+4,Across layers,Aggregate quality,29,37,0.00047318918070608784
+4,Within layer,Gradation,0,37,-0.003768651914615881
+4,Within layer,Gradation,1,37,-0.0017347516453826567
+4,Within layer,Gradation,2,37,-0.003210812139916905
+4,Within layer,Gradation,3,37,-0.00284505817626228
+4,Within layer,Gradation,4,37,-0.0013445534687291788
+4,Within layer,Gradation,5,37,-0.0007797626139339209
+4,Within layer,Gradation,6,37,-0.003842292311722506
+4,Within layer,Gradation,7,37,-0.003150670931052743
+4,Within layer,Gradation,8,37,-0.003464001000557354
+4,Within layer,Gradation,9,37,0.0008564974483232374
+4,Within layer,Gradation,10,37,-0.00229903013891658
+4,Within layer,Gradation,11,37,-0.002305754196160234
+4,Within layer,Gradation,12,37,-0.004329759413547032
+4,Within layer,Gradation,13,37,-0.0027749584816580547
+4,Within layer,Gradation,14,37,-0.004667618855573694
+4,Within layer,Gradation,15,37,-0.005894258855800319
+4,Within layer,Gradation,16,37,0.0004003415540675681
+4,Within layer,Gradation,17,37,-0.0005755410342938305
+4,Within layer,Gradation,18,37,-0.0036516350633130357
+4,Within layer,Gradation,19,37,-0.0035572787046602022
+4,Within layer,Gradation,20,37,-0.0050571357050359644
+4,Within layer,Gradation,21,37,-0.0065649235077600565
+4,Within layer,Gradation,22,37,-0.002163733290392683
+4,Within layer,Gradation,23,37,-0.0009103109670685616
+4,Within layer,Gradation,24,37,-0.004781252272059874
+4,Within layer,Gradation,25,37,-0.0027986838223023752
+4,Within layer,Gradation,26,37,-0.001620427729366783
+4,Within layer,Gradation,27,37,-0.0016840682265012036
+4,Within layer,Gradation,28,37,-0.001120464091251619
+4,Within layer,Gradation,29,37,-0.0038453817624173325
+4,Within layer,Binder properties,0,37,-0.0012985776686718908
+4,Within layer,Binder properties,1,37,9.794770899666794e-05
+4,Within layer,Binder properties,2,37,0.0010712463083119989
+4,Within layer,Binder properties,3,37,0.00036061640044951493
+4,Within layer,Binder properties,4,37,0.0008374069959604241
+4,Within layer,Binder properties,5,37,-0.0005770343669864869
+4,Within layer,Binder properties,6,37,-0.0006657922702475866
+4,Within layer,Binder properties,7,37,-0.0016433705578405289
+4,Within layer,Binder properties,8,37,0.0008570205884451537
+4,Within layer,Binder properties,9,37,0.00036250259421971576
+4,Within layer,Binder properties,10,37,0.0005729212151400764
+4,Within layer,Binder properties,11,37,0.000214026276834825
+4,Within layer,Binder properties,12,37,0.000648845903190684
+4,Within layer,Binder properties,13,37,8.203172192629282e-05
+4,Within layer,Binder properties,14,37,-0.0002512100895313979
+4,Within layer,Binder properties,15,37,-0.00040601577256600685
+4,Within layer,Binder properties,16,37,-0.000315732672460739
+4,Within layer,Binder properties,17,37,0.00012878350210475398
+4,Within layer,Binder properties,18,37,0.000306163743600249
+4,Within layer,Binder properties,19,37,-0.00011896307378225779
+4,Within layer,Binder properties,20,37,-0.0002872320213472418
+4,Within layer,Binder properties,21,37,0.001429078390457375
+4,Within layer,Binder properties,22,37,0.0008663121823597048
+4,Within layer,Binder properties,23,37,0.0003016989548583898
+4,Within layer,Binder properties,24,37,-0.00015569728275031947
+4,Within layer,Binder properties,25,37,0.0006145368229408671
+4,Within layer,Binder properties,26,37,-0.0004514856939050599
+4,Within layer,Binder properties,27,37,0.0004630195816297672
+4,Within layer,Binder properties,28,37,0.00102928390654701
+4,Within layer,Binder properties,29,37,-0.0015695382025553567
+4,Within layer,Aggregate quality,0,37,0.0025041935593168307
+4,Within layer,Aggregate quality,1,37,0.001760529426257984
+4,Within layer,Aggregate quality,2,37,0.001424695654493477
+4,Within layer,Aggregate quality,3,37,-0.0007673230870100106
+4,Within layer,Aggregate quality,4,37,0.002306401685572737
+4,Within layer,Aggregate quality,5,37,0.0015552746041046783
+4,Within layer,Aggregate quality,6,37,0.0008266440295085636
+4,Within layer,Aggregate quality,7,37,0.0013338969544790247
+4,Within layer,Aggregate quality,8,37,0.001713129289000484
+4,Within layer,Aggregate quality,9,37,-0.0001660873623399034
+4,Within layer,Aggregate quality,10,37,0.001999366114522144
+4,Within layer,Aggregate quality,11,37,0.002499753093922391
+4,Within layer,Aggregate quality,12,37,0.001170385048285441
+4,Within layer,Aggregate quality,13,37,0.00210271297452215
+4,Within layer,Aggregate quality,14,37,0.0008886455648822456
+4,Within layer,Aggregate quality,15,37,0.0013115486214156369
+4,Within layer,Aggregate quality,16,37,0.001598049435419649
+4,Within layer,Aggregate quality,17,37,0.0018128718850326658
+4,Within layer,Aggregate quality,18,37,0.0016980061051124484
+4,Within layer,Aggregate quality,19,37,0.0007765817929573093
+4,Within layer,Aggregate quality,20,37,0.0005900271921797234
+4,Within layer,Aggregate quality,21,37,-0.0003740246680295767
+4,Within layer,Aggregate quality,22,37,0.001720843368390318
+4,Within layer,Aggregate quality,23,37,0.0009582230936612396
+4,Within layer,Aggregate quality,24,37,0.001274093750204
+4,Within layer,Aggregate quality,25,37,0.0015023554758129554
+4,Within layer,Aggregate quality,26,37,0.002158820454645355
+4,Within layer,Aggregate quality,27,37,0.001441296183696622
+4,Within layer,Aggregate quality,28,37,0.002183932518440443
+4,Within layer,Aggregate quality,29,37,0.002094816164879776
+5,Across layers,Layer type,0,38,0.04043579817325928
+5,Across layers,Layer type,1,38,0.05149935722056102
+5,Across layers,Layer type,2,38,0.04916612990596973
+5,Across layers,Layer type,3,38,0.0433051870496797
+5,Across layers,Layer type,4,38,0.04039740088926966
+5,Across layers,Layer type,5,38,0.03785526755998943
+5,Across layers,Layer type,6,38,0.0496507196084502
+5,Across layers,Layer type,7,38,0.040402980023279855
+5,Across layers,Layer type,8,38,0.06488341170257426
+5,Across layers,Layer type,9,38,0.041929350285103556
+5,Across layers,Layer type,10,38,0.0509722420603821
+5,Across layers,Layer type,11,38,0.04810140859122415
+5,Across layers,Layer type,12,38,0.059114985038577636
+5,Across layers,Layer type,13,38,0.05081719994002189
+5,Across layers,Layer type,14,38,0.04312245800293764
+5,Across layers,Layer type,15,38,0.03738829906981986
+5,Across layers,Layer type,16,38,0.038798987374923086
+5,Across layers,Layer type,17,38,0.05479489059703195
+5,Across layers,Layer type,18,38,0.06738789726778245
+5,Across layers,Layer type,19,38,0.04072820681895796
+5,Across layers,Layer type,20,38,0.031956867769471514
+5,Across layers,Layer type,21,38,0.043671429911089285
+5,Across layers,Layer type,22,38,0.056111121952477847
+5,Across layers,Layer type,23,38,0.0451447482271268
+5,Across layers,Layer type,24,38,0.0685531607927219
+5,Across layers,Layer type,25,38,0.04932950689128536
+5,Across layers,Layer type,26,38,0.046355571266204154
+5,Across layers,Layer type,27,38,0.04896917433427432
+5,Across layers,Layer type,28,38,0.050012647696752
+5,Across layers,Layer type,29,38,0.019144267163245923
+5,Across layers,Gradation,0,38,0.22104772247698568
+5,Across layers,Gradation,1,38,0.12349532075159723
+5,Across layers,Gradation,2,38,0.1596582243449965
+5,Across layers,Gradation,3,38,0.1823813560568724
+5,Across layers,Gradation,4,38,0.2335033902627776
+5,Across layers,Gradation,5,38,0.1888392340684487
+5,Across layers,Gradation,6,38,0.1777465486424029
+5,Across layers,Gradation,7,38,0.21230035021958998
+5,Across layers,Gradation,8,38,0.21994377072887966
+5,Across layers,Gradation,9,38,0.27926973841241043
+5,Across layers,Gradation,10,38,0.21433547467544828
+5,Across layers,Gradation,11,38,0.19924295089354904
+5,Across layers,Gradation,12,38,0.2042691642595122
+5,Across layers,Gradation,13,38,0.23758160485300717
+5,Across layers,Gradation,14,38,0.25382239170502124
+5,Across layers,Gradation,15,38,0.22719721328264392
+5,Across layers,Gradation,16,38,0.20774077946977987
+5,Across layers,Gradation,17,38,0.16825786118660496
+5,Across layers,Gradation,18,38,0.21263591341172705
+5,Across layers,Gradation,19,38,0.14572603946247864
+5,Across layers,Gradation,20,38,0.17992632637663108
+5,Across layers,Gradation,21,38,0.1356111125605951
+5,Across layers,Gradation,22,38,0.138843547742745
+5,Across layers,Gradation,23,38,0.12985836415441138
+5,Across layers,Gradation,24,38,0.20209397767733284
+5,Across layers,Gradation,25,38,0.21204612278984447
+5,Across layers,Gradation,26,38,0.18129379499840936
+5,Across layers,Gradation,27,38,0.18620039094283636
+5,Across layers,Gradation,28,38,0.15396835516671165
+5,Across layers,Gradation,29,38,0.19782111517446893
+5,Across layers,Binder properties,0,38,-0.0029219007469833275
+5,Across layers,Binder properties,1,38,0.0008238178217352121
+5,Across layers,Binder properties,2,38,-0.0007660574505116424
+5,Across layers,Binder properties,3,38,-0.002788597334701687
+5,Across layers,Binder properties,4,38,0.0004773129158260614
+5,Across layers,Binder properties,5,38,-0.00011928442918093807
+5,Across layers,Binder properties,6,38,0.0014479874580547863
+5,Across layers,Binder properties,7,38,-0.001631346024956834
+5,Across layers,Binder properties,8,38,-0.00025677729262937876
+5,Across layers,Binder properties,9,38,-0.00028054227057282277
+5,Across layers,Binder properties,10,38,-0.002353956561895229
+5,Across layers,Binder properties,11,38,-0.0007348180442907359
+5,Across layers,Binder properties,12,38,-0.0011632871096206865
+5,Across layers,Binder properties,13,38,0.002165994716380057
+5,Across layers,Binder properties,14,38,-0.002587278120110212
+5,Across layers,Binder properties,15,38,-0.0006983219585768863
+5,Across layers,Binder properties,16,38,-0.0005225623497212978
+5,Across layers,Binder properties,17,38,-0.00046466550305754306
+5,Across layers,Binder properties,18,38,0.001921254325703045
+5,Across layers,Binder properties,19,38,-0.0011296545040603706
+5,Across layers,Binder properties,20,38,-0.0003097289355138144
+5,Across layers,Binder properties,21,38,-0.00043941173106694376
+5,Across layers,Binder properties,22,38,-6.895981742444102e-06
+5,Across layers,Binder properties,23,38,0.000911579938196197
+5,Across layers,Binder properties,24,38,-0.0003526962396729755
+5,Across layers,Binder properties,25,38,0.0009905883647497449
+5,Across layers,Binder properties,26,38,-0.001728600890687576
+5,Across layers,Binder properties,27,38,0.00020247532698126902
+5,Across layers,Binder properties,28,38,-0.0021682196530296988
+5,Across layers,Binder properties,29,38,0.0010244367696791573
+5,Across layers,Aggregate quality,0,38,0.0002782012852093202
+5,Across layers,Aggregate quality,1,38,0.00018776777184151272
+5,Across layers,Aggregate quality,2,38,-0.00014217180775349947
+5,Across layers,Aggregate quality,3,38,0.00030586446635091913
+5,Across layers,Aggregate quality,4,38,0.0003875403440558034
+5,Across layers,Aggregate quality,5,38,0.00046802858243931433
+5,Across layers,Aggregate quality,6,38,-0.00021236713654253225
+5,Across layers,Aggregate quality,7,38,-0.0005712233295428054
+5,Across layers,Aggregate quality,8,38,0.00044934069311969305
+5,Across layers,Aggregate quality,9,38,-0.0006572322329881364
+5,Across layers,Aggregate quality,10,38,9.110822948384112e-05
+5,Across layers,Aggregate quality,11,38,-0.0003496475291661777
+5,Across layers,Aggregate quality,12,38,0.0002986424094493234
+5,Across layers,Aggregate quality,13,38,-0.00010986719148937951
+5,Across layers,Aggregate quality,14,38,0.0005759792118836676
+5,Across layers,Aggregate quality,15,38,0.00018154105248793795
+5,Across layers,Aggregate quality,16,38,0.0005904140748118764
+5,Across layers,Aggregate quality,17,38,8.166992095444414e-05
+5,Across layers,Aggregate quality,18,38,-0.00035214885069766166
+5,Across layers,Aggregate quality,19,38,0.0003235734942850649
+5,Across layers,Aggregate quality,20,38,0.0004713661502627753
+5,Across layers,Aggregate quality,21,38,4.0569275021690165e-05
+5,Across layers,Aggregate quality,22,38,8.971506131638662e-05
+5,Across layers,Aggregate quality,23,38,0.0008317094621847626
+5,Across layers,Aggregate quality,24,38,7.006283312807615e-06
+5,Across layers,Aggregate quality,25,38,0.0013023035575074476
+5,Across layers,Aggregate quality,26,38,0.00035266503447253794
+5,Across layers,Aggregate quality,27,38,0.00014585914525216959
+5,Across layers,Aggregate quality,28,38,-0.0005001371099809665
+5,Across layers,Aggregate quality,29,38,-0.0003548595542170463
+5,Within layer,Gradation,0,38,-0.0007026326450706166
+5,Within layer,Gradation,1,38,0.0008176920291389084
+5,Within layer,Gradation,2,38,-0.0012141434575008436
+5,Within layer,Gradation,3,38,0.0015959160189227412
+5,Within layer,Gradation,4,38,0.00043307282757536203
+5,Within layer,Gradation,5,38,-0.001488173640239801
+5,Within layer,Gradation,6,38,0.0013920625570352507
+5,Within layer,Gradation,7,38,-0.0016489821115801967
+5,Within layer,Gradation,8,38,0.0010581940422048491
+5,Within layer,Gradation,9,38,0.00047820700588922793
+5,Within layer,Gradation,10,38,-0.0020586414997129654
+5,Within layer,Gradation,11,38,-0.002090954465805761
+5,Within layer,Gradation,12,38,-0.0005615092296239466
+5,Within layer,Gradation,13,38,7.630796743485213e-06
+5,Within layer,Gradation,14,38,0.0024591664934662527
+5,Within layer,Gradation,15,38,-0.0015819857265167159
+5,Within layer,Gradation,16,38,-0.00030039967263897904
+5,Within layer,Gradation,17,38,0.00024176821398017023
+5,Within layer,Gradation,18,38,0.0006928528467030209
+5,Within layer,Gradation,19,38,0.00040397112333899476
+5,Within layer,Gradation,20,38,-0.0001811592088999392
+5,Within layer,Gradation,21,38,-0.0004046821979522691
+5,Within layer,Gradation,22,38,-0.001128816965384083
+5,Within layer,Gradation,23,38,-0.0013740715337381693
+5,Within layer,Gradation,24,38,-0.0009647688327299869
+5,Within layer,Gradation,25,38,0.0022159605966514673
+5,Within layer,Gradation,26,38,6.098193357814696e-05
+5,Within layer,Gradation,27,38,-0.0010721275925338197
+5,Within layer,Gradation,28,38,-0.00035853328410861973
+5,Within layer,Gradation,29,38,-0.00023234254579286573
+5,Within layer,Binder properties,0,38,-0.0004106347183380904
+5,Within layer,Binder properties,1,38,0.0012479525176108397
+5,Within layer,Binder properties,2,38,0.00018312106009088502
+5,Within layer,Binder properties,3,38,0.0009564242085183944
+5,Within layer,Binder properties,4,38,7.4170784161442516e-06
+5,Within layer,Binder properties,5,38,0.002402861955072097
+5,Within layer,Binder properties,6,38,-0.0009639543043228616
+5,Within layer,Binder properties,7,38,0.0008949230022238935
+5,Within layer,Binder properties,8,38,0.0022778497941788184
+5,Within layer,Binder properties,9,38,-0.000501782389174546
+5,Within layer,Binder properties,10,38,-0.000251246116407991
+5,Within layer,Binder properties,11,38,0.00017349915556007234
+5,Within layer,Binder properties,12,38,1.1329926644224053e-05
+5,Within layer,Binder properties,13,38,-0.0003521411161172827
+5,Within layer,Binder properties,14,38,-4.2493031569862394e-05
+5,Within layer,Binder properties,15,38,8.685618757955926e-06
+5,Within layer,Binder properties,16,38,0.001227877209231662
+5,Within layer,Binder properties,17,38,0.00029035746431760323
+5,Within layer,Binder properties,18,38,-0.0007744246995910475
+5,Within layer,Binder properties,19,38,0.000721004305922604
+5,Within layer,Binder properties,20,38,0.0009214405064334324
+5,Within layer,Binder properties,21,38,0.0002675969376727677
+5,Within layer,Binder properties,22,38,0.0005176521446940002
+5,Within layer,Binder properties,23,38,0.002749097001914322
+5,Within layer,Binder properties,24,38,0.0006104583494176002
+5,Within layer,Binder properties,25,38,0.002682828809753679
+5,Within layer,Binder properties,26,38,0.0010117772525724267
+5,Within layer,Binder properties,27,38,-0.0005262730968513263
+5,Within layer,Binder properties,28,38,0.0005064052824884646
+5,Within layer,Binder properties,29,38,-0.00024086142502814656
+5,Within layer,Aggregate quality,0,38,-0.0004066582772702526
+5,Within layer,Aggregate quality,1,38,-0.000614802126590791
+5,Within layer,Aggregate quality,2,38,-0.000496283062523889
+5,Within layer,Aggregate quality,3,38,0.0004437217733213594
+5,Within layer,Aggregate quality,4,38,0.00024851768046199596
+5,Within layer,Aggregate quality,5,38,2.7483581764797815e-05
+5,Within layer,Aggregate quality,6,38,-0.0001978604452678584
+5,Within layer,Aggregate quality,7,38,-0.0002917575795994276
+5,Within layer,Aggregate quality,8,38,-0.00053248297207871
+5,Within layer,Aggregate quality,9,38,2.3129613987829534e-05
+5,Within layer,Aggregate quality,10,38,-0.0001915661523230472
+5,Within layer,Aggregate quality,11,38,0.0007627945383710671
+5,Within layer,Aggregate quality,12,38,0.00017911795992667234
+5,Within layer,Aggregate quality,13,38,-3.611892870875044e-05
+5,Within layer,Aggregate quality,14,38,3.9330073849014324e-05
+5,Within layer,Aggregate quality,15,38,-0.00034274950955905104
+5,Within layer,Aggregate quality,16,38,0.0006867397944227138
+5,Within layer,Aggregate quality,17,38,-2.0239827904514063e-05
+5,Within layer,Aggregate quality,18,38,-0.00014601328101729316
+5,Within layer,Aggregate quality,19,38,7.129259296975721e-05
+5,Within layer,Aggregate quality,20,38,-0.0007830141360885418
+5,Within layer,Aggregate quality,21,38,-0.0011926340498146087
+5,Within layer,Aggregate quality,22,38,-0.0005657960649671362
+5,Within layer,Aggregate quality,23,38,-0.0008312430548229888
+5,Within layer,Aggregate quality,24,38,0.0012467787431943017
+5,Within layer,Aggregate quality,25,38,-0.00013151440449034324
+5,Within layer,Aggregate quality,26,38,-0.0010618032295246216
+5,Within layer,Aggregate quality,27,38,0.000492943146298247
+5,Within layer,Aggregate quality,28,38,-0.00044442593575637346
+5,Within layer,Aggregate quality,29,38,-0.0003402816015829896

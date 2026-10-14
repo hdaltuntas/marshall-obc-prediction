@@ -1,59 +1,47 @@
-# Marshall OBC Prediction — Pre-Test Feature Set
+# Marshall OBC Prediction — Pre-Test Features
 
-Code accompanying the manuscript *"Prediction of Optimum Bitumen Content Using
-Tree-Based Machine Learning and SHAP-Based Interpretability Prior to the
-Marshall Test"*. Predicts optimum bitumen content (OBC) for Marshall mix
-design using only properties available **before** any specimen is compacted:
-aggregate gradation, aggregate quality indices, bitumen properties, and
-pavement layer type.
+Estimate Marshall optimum bitumen content from measurements available before
+specimen preparation: pavement layer, gradation, aggregate quality and binder
+properties.
 
-## Repository contents
+## Current corrected analysis
 
-| File | Description |
-|---|---|
-| `pretest_pipeline_stratified.py` | Full analysis pipeline: preprocessing, 10-fold stratified model screening across 10 algorithms, hyperparameter tuning, repeated (50-split) and nested cross-validation, paired t-test / Wilcoxon significance testing, VIF and Shapiro–Wilk residual diagnostics. Reproduces manuscript Sections 3.3–4.6. |
-| `predict_example_pretest.py` | Minimal usage example: load the trained model and predict OBC for one new specimen. |
-| `held_out_test_model_pretest_stratified.pkl` | Trained Extra Trees pipeline, fit **only** on the 164-specimen training split; the 42-specimen test split was never seen during fitting. Its predictions reproduce the manuscript's Table 3 test-set metrics exactly (R² = 0.926, RMSE = 0.093, MAE = 0.064). This is the model referenced throughout the manuscript. |
-| `requirements.txt` | Python dependencies. |
-
-## Setup
+The [204-design analysis](revision_204/README.md) includes corrected datasets,
+quarry-grouped nested and temporal validation, layer-mean comparisons, individual
+held-out predictions, six figures and reproducible scripts.
 
 ```bash
+cd revision_204
 pip install -r requirements.txt
+python revision_validation.py --input input_as_received.xlsx --output rerun --jobs 4
+python annotate_binders.py --input input_as_received.xlsx --results rerun
+python generate_figures.py --results rerun --figures rerun_figures
 ```
 
-Python 3.9+ recommended.
+Python 3.12 was used. To regenerate figures from saved diagnostics, see the
+[revision instructions](revision_204/README.md).
 
-## Usage
+Quarry-grouped Extra Trees achieves R²=0.906821 and MAE=0.072938 percentage points,
+versus layer-mean MAE=0.074006. Temporal MAE is 0.054592 versus baseline 0.053170.
+Within-layer performance is limited; pooled R² must not be interpreted as strong
+within-layer prediction or consistent superiority. The revised evaluation is
+retrospective internal validation. No updated deployment model is included.
 
-Run a scripted single-specimen prediction with the trained model:
+## Earlier 206-record implementation
 
-```bash
-python predict_example_pretest.py
-```
+The existing root-level `pretest_pipeline_stratified.py`,
+`predict_example_pretest.py`, `held_out_test_model_pretest_stratified.pkl` and
+`requirements.txt` belong to the earlier 206-record analysis and are retained
+for provenance. The serialized model has not been retrained on the corrected
+204 designs. Its earlier scores and statistical tests do not describe the
+current corrected analysis. Use the revision directory for current results.
 
-Reproduce the full methodology and statistical validation reported in
-Sections 3.3–4.6 (requires the raw dataset — see below):
+## Data and license
 
-```bash
-python pretest_pipeline_stratified.py
-```
-
-## Data availability
-
-The raw dataset (206 laboratory Marshall specimens, General Directorate of
-Highways, 13th Regional Directorate) is not included in this repository due
-to institutional data ownership. It is available from the corresponding
-author upon reasonable request. The trained model file (`.pkl`) included
-here allows prediction on new specimens and verification of the reported
-test-set results without requiring the raw dataset.
+The corrected input and supplementary data are included in `revision_204/`.
+The MIT license applies to code; it does not transfer ownership of the
+laboratory dataset. See [LICENSE](LICENSE).
 
 ## Citation
 
-If you use this code, please cite the manuscript (details to be added upon
-publication).
-
-## License
-
-MIT — see `LICENSE`. This applies to the code only; it does not extend to
-the (unincluded) proprietary laboratory dataset.
+Publication citation details will be added when available.
