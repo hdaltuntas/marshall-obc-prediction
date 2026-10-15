@@ -1,11 +1,11 @@
 {
-  "input_sha256": "9adaf0297fe6b948c41fa4992f2ebc0c43602cef1cbb55af13c5380606577d0e",
+  "input_sha256": "57f1fc20d3ce226ad0575fd0140f4097e2e9039020e01654e35b620b488eee53",
   "n": 204,
   "n_quarries": 60,
   "layer_counts": {
-    "binder_course": 72,
+    "binder_course": 75,
     "wearing_course": 67,
-    "ac_base_course": 65
+    "ac_base_course": 62
   },
   "random_state": 42,
   "features": [
@@ -80,6 +80,18 @@
     "pandas": "2.2.3",
     "scipy": "1.17.0",
     "scikit_learn": "1.8.0"
+  },
+  "layer_corrections": {
+    "date": "2026-10-15",
+    "source": "Author confirmation: records 47, 51 and 57 are binder course; previous base-course labels were entry errors.",
+    "records": [
+      "1 (47).docx",
+      "1 (51).docx",
+      "1 (57).docx"
+    ],
+    "from": "ac_base_course",
+    "to": "binder_course",
+    "measurement_values_changed": false
   },
   "binder_clarification": {
     "date": "2026-10-14",
